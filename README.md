@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Sagar281203/Sagar281203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![]()
+## About me
+- 🔭 I’m a 2nd year CSE student at VIT university
+- 🌱 I’m currently learning  Web Development & UI Designing 
+- ⚡ My interests are Programing and Chill. 
+___
+## Tools & Languages
+<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='' height='30'><img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='' height='30'>  <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black' alt='' height='30'> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <img src='https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black'>
+___
+## Contact Me 
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sagar-kumar-147bb3249/)
+<br>
+<br>
