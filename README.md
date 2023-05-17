@@ -1,14 +1,17 @@
-![]()
-## About me
-- 🔭 I’m a 2nd year CSE student at VIT university
-- 🌱 I’m currently learning  Web Development & UI Designing 
-- ⚡ My interests are Programing and Chill. 
-___
-## Tools & Languages
-<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='' height='30'><img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='' height='30'>  <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black' alt='' height='30'> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <img src='https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black'>
-___
-## Contact Me 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sagar-kumar-147bb3249/)
-<br>
-<br>
+<h1 align="center">Hi 👋, I'm Jaydeep</h1>
+<h3 align="center">I'm a student who's seeking for knowledge and fun.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jd-7&label=Profile%20views&color=0e75b6&style=flat" alt="jd-7" /> </p>
+- 🌱 I’m currently learning **Python, Java, C++**
+- 💬 Ask me about **Football, Gaming**
+- 📫 How to reach me **payyaljaydeep@gmail.com**
+- ⚡ Fun fact **I like to get myself involved in almost everything.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jaydeep p b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydeep p b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaydeep-p-b-1184bb21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydeep p b" height="30" width="40" /></a>
+<a href="https://instagram.com/jd_7.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jd_7.7" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
