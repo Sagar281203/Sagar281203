@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">I'm a student who's seeking for knowledge and fun.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jd-7&label=Profile%20views&color=0e75b6&style=flat" alt="jd-7" /> </p>
-- 🌱 I’m currently learning **MERN Stack, C++, Algorithms**
-- 💬 Ask me about **Fitness, General Knowledge**
-- 📫 How to reach me **sagarkumar281203@gmail.com**
-- ⚡ Fun fact **I like to get myself involved in almost everything.**
+- 🌱 I’m currently learning MERN Stack, C++, Algorithms<br>
+- 💬 Ask me about Fitness, General Knowledge<br>
+- 📫 How to reach me **sagarkumar281203@gmail.com**<br>
+- ⚡ Fun fact I like to get myself involved in almost everything.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
